@@ -2,7 +2,7 @@
 
 Lemonade – Homeowners, Renters and Pet Insurance
 
-##Overview and Origin
+## Overview and Origin
 
 * Name of company
 
@@ -24,7 +24,7 @@ Founders of Lemonade are Shai Wininger and Daniel Schreiber
 
 As of March 10, 2020; Lemonade has received $480 million in funding, $300 million of which came from Series D funding that led investor SoftBank provided in 2019. Funding was also received from Allianz, Sequoia and Aleph. (Forbes, 2020)
 
-##Business Activities:
+## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
@@ -67,7 +67,7 @@ Lemonade uses the following technologies in their practice in the following depa
 •	G Suite
 •	Medium
 
-##Landscape:
+## Landscape:
 
 * What domain of the financial industry is the company in?
 
@@ -89,7 +89,7 @@ Other companies within this domain and are direct competitors of Lemonade are (C
 •	Spixii
 •	Cape Analytics
 
-##Results
+## Results
 
 * What has been the business impact of this company so far?
 
@@ -109,7 +109,7 @@ Core metrics used within this domain to measure success is as follows:
 
 	Lemonade has reached $1 million ARR in the second quarter of 2017 and passed $10 million ARR 10 months later. (Schreiber Daniel, 2019) Proving to be one of the fastest growing tech company within 2.5 years. Although ARR is common measurement when measure growth, other indicators such as brand notoriety surpassed those who have been in the domain for many years. Lemonade surpassed All State and Liberty Insurance in brand Google searches in the US.
 
-##Recommendations
+## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
